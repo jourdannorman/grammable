@@ -6,6 +6,7 @@ body {
 }
 
 label {
+	display: block;
 	font-size: 18px;
 }
 
@@ -23,7 +24,7 @@ input {
 	padding-top: 15px;
 }
 
-.brand {
+.brand a {
 	color: #125688;
 	font-size: 30px;
 	font-family: 'Pacifico', cursive;
